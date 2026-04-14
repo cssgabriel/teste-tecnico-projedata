@@ -50,6 +50,7 @@ public class Principal {
             "Recepcionista",
             "Contador",
             "Gerente",
+            "Diretor",
         };
         for (String func : funcoes) {
             System.out.println("> " + func + ":");
